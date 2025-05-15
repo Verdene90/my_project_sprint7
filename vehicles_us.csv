@@ -1,0 +1,11 @@
+price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,drive,size,type,paint_color,state
+4000,2011,ford,edge,good,6 cylinders,gas,145000,clean,automatic,fwd,mid-size,SUV,silver,wa
+6500,2013,chevrolet,malibu,like new,4 cylinders,gas,50000,clean,automatic,fwd,mid-size,sedan,black,tx
+3200,2008,ford,fusion,fair,4 cylinders,gas,133000,clean,automatic,fwd,mid-size,sedan,white,ny
+7400,2012,honda,civic,good,4 cylinders,gas,92000,clean,automatic,fwd,compact,sedan,blue,ca
+11900,2015,toyota,camry,like new,4 cylinders,gas,60000,clean,automatic,fwd,mid-size,sedan,red,fl
+9800,2014,nissan,altima,excellent,4 cylinders,gas,70000,clean,automatic,fwd,mid-size,sedan,grey,il
+2500,2005,dodge,ram,good,8 cylinders,gas,180000,clean,manual,4wd,full-size,pickup,white,nv
+5300,2009,chevrolet,impala,good,6 cylinders,gas,110000,clean,automatic,fwd,full-size,sedan,black,oh
+8700,2013,ford,focus,excellent,4 cylinders,gas,65000,clean,automatic,fwd,compact,sedan,silver,az
+10400,2016,hyundai,elantra,like new,4 cylinders,gas,30000,clean,automatic,fwd,compact,sedan,white,pa
